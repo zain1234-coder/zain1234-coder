@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+MLOps;Always+Learning.+Always+Building." alt="Typing SVG"/>
