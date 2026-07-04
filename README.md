@@ -2,173 +2,284 @@
 
 <img src="./banner.svg" width="100%" />
 
-<a href="https://linkedin.com/in/zainashraf01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:zainashraf3690@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/zain1234-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<br>
 
-<br/>
+<a href="https://linkedin.com/in/zainashraf01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Building+End-to-End+ML+Pipelines" alt="Typing SVG" />
+<a href="mailto:zainashraf3013@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zain1234-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+MLOps;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 </div>
 
-<br/>
+---
 
-## 🧠 About Me
+# 👋 Hi, I'm Zain Ashraf
 
-I'm a **Machine Learning Engineer** based in Faisalabad, Pakistan, currently pursuing **BS Data Analytics at GCU Faisalabad**. I build end-to-end ML/DL solutions 
-from data analysis and model training to deployment as production-ready APIs.
+I'm a **Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems through data.
 
-- 🔭 Currently working on: predictive ML models & applied deep learning projects
-- 🌱 Currently learning: Transformers, LLMs (RAG, LangChain), and MLOps (Docker, FastAPI, MLflow)
-- 🎯 Goal: Land a role as a Machine Learning / AI Engineer
-- 💬 Ask me about: Python, scikit-learn, PyTorch, Data Analysis
+Currently pursuing a **Bachelor's in Data Analytics** at **Government College University Faisalabad**, I specialize in designing end-to-end machine learning solutions from data preprocessing and exploratory analysis to model training, evaluation, deployment, and API development.
+
+My interests include **Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and MLOps**. I'm continuously improving my skills by building practical projects that reflect real industry workflows.
+
+---
+
+## 🎯 What I'm Currently Focused On
+
+- 🚀 Building production-ready Machine Learning applications
+- 🤖 Learning Large Language Models (LLMs), RAG, AI Agents & Transformers
+- ⚙️ Deploying ML models using FastAPI, Docker & MLflow
+- 📚 Strengthening Deep Learning with PyTorch
+- ☁️ Exploring cloud technologies for Machine Learning
+- 💻 Writing clean, scalable, and production-quality Python code
 - 📫 Reach me: **zainashraf3013@gmail.com**
+---
 
-<br/>
-
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,vscode,aws&theme=dark" />
 
 </div>
 
-<br/>
+### 🐍 Languages
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+- Python
+- SQL
 
-**Data & Analysis**
+### 📊 Data Science & Analytics
+
 - NumPy
 - Pandas
-- Matplotlib / Seaborn
-- Exploratory Data Analysis
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Feature Engineering
+- Data Visualization
 
-</td>
-<td valign="top" width="33%">
+### 🤖 Machine Learning
 
-**Machine Learning**
-- scikit-learn
+- Scikit-learn
 - XGBoost
-- Regression & Classification
-- Clustering (KMeans, PCA)
+- Regression
+- Classification
+- Clustering
+- Dimensionality Reduction (PCA)
+- Model Evaluation
+- Hyperparameter Tuning
+- Cross Validation
 
-</td>
-<td valign="top" width="33%">
+### 🧠 Deep Learning
 
-**Deep Learning & GenAI**
-- PyTorch (CNN, RNN/LSTM)
-- HuggingFace Transformers
-- LangChain / RAG
-- Fine-tuning (BERT)
+- PyTorch
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- LSTM
+- Transfer Learning
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
+### ✨ Generative AI
 
-**MLOps & Deployment**
+- Hugging Face Transformers
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- BERT
+- Prompt Engineering
+
+### 🚀 MLOps & Deployment
+
 - FastAPI
 - Docker
 - MLflow
-- AWS (basics)
+- REST APIs
+- Git
+- GitHub
+- CI/CD Fundamentals
 
-</td>
-<td valign="top" width="33%">
+### 🛠 Tools
 
-**Tools**
-- Git & GitHub
-- Jupyter / Google Colab
 - VS Code
+- Jupyter Notebook
+- Google Colab
 - Kaggle
 
-</td>
-<td valign="top" width="33%">
+### 📐 Mathematics
 
-**Math Foundations**
 - Linear Algebra
-- Statistics & Probability
-- Calculus (Gradient Descent)
+- Statistics
+- Probability
+- Calculus
+- Optimization (Gradient Descent)
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning with PyTorch
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Docker
+- Kubernetes
+- AWS for Machine Learning
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🚢 [Titanic Survival Prediction](https://github.com/zain1234-coder/Titanic-Project)
-End-to-end EDA + classification pipeline predicting passenger survival.
-`Python` `Pandas` `scikit-learn`
+### 🚢 Titanic Survival Prediction
+
+Built an end-to-end classification pipeline including data preprocessing, feature engineering, model training, evaluation, and prediction.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn`
+
+🔗 https://github.com/zain1234-coder/Titanic-Project
 
 </td>
+
 <td width="50%">
 
-### 🚗 [Car Price Prediction](https://github.com/zain1234-coder/Car-Price-Prediction)
-Regression model predicting car prices from real-world listing data.
-`Python` `scikit-learn` `Pandas`
+### 🚗 Car Price Prediction
+
+Developed a regression model that predicts vehicle prices using feature engineering and supervised machine learning techniques.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn`
+
+🔗 https://github.com/zain1234-coder/Car-Price-Prediction
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-### 📧 [Email Spam Detection](https://github.com/zain1234-coder/Email-spam-detection)
-NLP-based text classification model to detect spam vs. ham emails.
-`Python` `NLP` `scikit-learn`
+### 📧 Email Spam Detection
+
+Built an NLP-based text classification model that identifies spam and legitimate emails using machine learning.
+
+**Tech Stack**
+
+`Python` `NLP` `Scikit-learn`
+
+🔗 https://github.com/zain1234-coder/Email-spam-detection
 
 </td>
+
 <td width="50%">
 
-### 🌸 [Iris Flower Classification](https://github.com/zain1234-coder/iris-flower-classification)
-Classic multi-class classification model on the Iris dataset.
-`Python` `scikit-learn`
+### 🌸 Iris Flower Classification
+
+Implemented a multiclass classification model with complete preprocessing, training, evaluation, and prediction pipeline.
+
+**Tech Stack**
+
+`Python` `Scikit-learn`
+
+🔗 https://github.com/zain1234-coder/iris-flower-classification
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-### 📈 [Unemployment Analysis](https://github.com/zain1234-coder/Unemployment-Analysis-With-Python)
-Data analysis project exploring unemployment trends with visualizations.
+### 📈 Unemployment Data Analysis
+
+Performed exploratory data analysis and visualization to identify unemployment trends and generate meaningful insights.
+
+**Tech Stack**
+
 `Python` `Pandas` `Matplotlib`
 
+🔗 https://github.com/zain1234-coder/Unemployment-Analysis-With-Python
+
 </td>
+
 <td width="50%">
 
-### 💰 [Price Prediction](https://github.com/zain1234-coder/Price-Prediction-With-Py)
-Predictive modeling project estimating prices from historical data.
-`Python` `scikit-learn`
+### 💰 Price Prediction
+
+Developed a predictive machine learning model using historical data to estimate prices with data preprocessing and regression techniques.
+
+**Tech Stack**
+
+`Python` `Scikit-learn`
+
+🔗 https://github.com/zain1234-coder/Price-Prediction-With-Py
 
 </td>
+
 </tr>
 </table>
 
-> 💡 **Also pin these 6 repos** on your GitHub profile (Profile page → **Customize your pins**) so they show as native cards above your README too.
+---
 
-<br/>
-
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-
-<!-- NOTE: the shared public github-readme-stats.vercel.app instance is currently
-     paused by its owner (since Jan 2026), so the main stats + top-langs cards are
-     broken for EVERYONE right now, not just this profile. Deploy your own free
-     instance (steps above) and send me the URL — I'll drop it in right here. -->
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zain1234-coder&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
-<br/>
+---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:zainashraf3013@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/zainashraf01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zain1234-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Building AI solutions that transform data into intelligent decisions."*
+
+**Always Learning • Always Building • Always Improving**
+
+</div>
