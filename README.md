@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Zain%20Ashraf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="./banner.svg" width="100%" />
 
 <a href="https://linkedin.com/in/zainashraf01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:zainashraf3690@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -171,10 +171,14 @@ Predictive modeling project estimating prices from historical data.
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zain1234-coder&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+<img src="https://img.shields.io/github/stars/zain1234-coder?style=for-the-badge&color=6366F1&label=Total%20Stars" />
+<img src="https://img.shields.io/github/followers/zain1234-coder?style=for-the-badge&color=22D3EE&label=Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6366F1&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzain1234-coder" />
+
 </div>
 
 <br/>
@@ -184,7 +188,5 @@ Predictive modeling project estimating prices from historical data.
 ### 🤝 Open to Machine Learning, Data Science & AI Engineering roles
 
 <img src="https://komarev.com/ghpvc/?username=zain1234-coder&label=Profile%20Views&color=2E97F7&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
 
 </div>
