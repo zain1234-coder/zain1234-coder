@@ -1,0 +1,58 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#141B2D"/>
+    </linearGradient>
+    <linearGradient id="accentText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- neural network motif, right side -->
+  <g opacity="0.55" stroke="#334155" stroke-width="1.2">
+    <line x1="620" y1="55" x2="700" y2="40"/>
+    <line x1="620" y1="55" x2="700" y2="95"/>
+    <line x1="620" y1="120" x2="700" y2="40"/>
+    <line x1="620" y1="120" x2="700" y2="95"/>
+    <line x1="620" y1="120" x2="700" y2="150"/>
+    <line x1="620" y1="180" x2="700" y2="95"/>
+    <line x1="620" y1="180" x2="700" y2="150"/>
+    <line x1="700" y1="40" x2="780" y2="70"/>
+    <line x1="700" y1="95" x2="780" y2="70"/>
+    <line x1="700" y1="95" x2="780" y2="130"/>
+    <line x1="700" y1="150" x2="780" y2="130"/>
+    <line x1="700" y1="150" x2="780" y2="175"/>
+  </g>
+  <g>
+    <circle cx="620" cy="55" r="5" fill="#22D3EE"/>
+    <circle cx="620" cy="120" r="5" fill="#22D3EE"/>
+    <circle cx="620" cy="180" r="5" fill="#22D3EE"/>
+    <circle cx="700" cy="40" r="5" fill="#6366F1"/>
+    <circle cx="700" cy="95" r="5" fill="#6366F1"/>
+    <circle cx="700" cy="150" r="5" fill="#6366F1"/>
+    <circle cx="780" cy="70" r="6" fill="#22D3EE"/>
+    <circle cx="780" cy="130" r="6" fill="#22D3EE"/>
+    <circle cx="780" cy="175" r="6" fill="#22D3EE"/>
+  </g>
+
+  <!-- text block, left side -->
+  <text x="60" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#F1F5F9" letter-spacing="1">
+    ZAIN ASHRAF
+  </text>
+  <text x="60" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600" fill="url(#accentText)" letter-spacing="0.5">
+    AI &amp; MACHINE LEARNING ENGINEER
+  </text>
+
+  <line x1="60" y1="148" x2="340" y2="148" stroke="#334155" stroke-width="1.5"/>
+
+  <text x="60" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#94A3B8">
+    Python &#183; PyTorch &#183; scikit-learn &#183; FastAPI &#183; Docker
+  </text>
+  <text x="60" y="194" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-style="italic" fill="#64748B">
+    Turning data into intelligent systems
+  </text>
+</svg>
