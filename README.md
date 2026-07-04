@@ -23,7 +23,7 @@ I'm a **Machine Learning Engineer** based in Faisalabad, Pakistan, currently pur
 - 🌱 Currently learning: Transformers, LLMs (RAG, LangChain), and MLOps (Docker, FastAPI, MLflow)
 - 🎯 Goal: Land a role as a Machine Learning / AI Engineer
 - 💬 Ask me about: Python, scikit-learn, PyTorch, Data Analysis
-- 📫 Reach me: **zainashraf3690@gmail.com**
+- 📫 Reach me: **zainashraf3013@gmail.com**
 
 <br/>
 
