@@ -17,7 +17,8 @@
 
 ## 🧠 About Me
 
-I'm a **Machine Learning Engineer** based in Faisalabad, Pakistan, currently pursuing **BS Data Analytics at GCU Faisalabad**. I build end-to-end ML/DL solutions — from data analysis and model training to deployment as production-ready APIs.
+I'm a **Machine Learning Engineer** based in Faisalabad, Pakistan, currently pursuing **BS Data Analytics at GCU Faisalabad**. I build end-to-end ML/DL solutions 
+from data analysis and model training to deployment as production-ready APIs.
 
 - 🔭 Currently working on: predictive ML models & applied deep learning projects
 - 🌱 Currently learning: Transformers, LLMs (RAG, LangChain), and MLOps (Docker, FastAPI, MLflow)
@@ -171,22 +172,3 @@ Predictive modeling project estimating prices from historical data.
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/zain1234-coder?style=for-the-badge&color=6366F1&label=Total%20Stars" />
-<img src="https://img.shields.io/github/followers/zain1234-coder?style=for-the-badge&color=22D3EE&label=Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6366F1&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzain1234-coder" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Open to Machine Learning, Data Science & AI Engineering roles
-
-<img src="https://komarev.com/ghpvc/?username=zain1234-coder&label=Profile%20Views&color=2E97F7&style=flat" />
-
-</div>
