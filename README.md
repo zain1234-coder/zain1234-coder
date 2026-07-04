@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=750&lines=AI/+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+MLOps;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=750&lines=AI+/+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+MLOps;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 </div>
 
